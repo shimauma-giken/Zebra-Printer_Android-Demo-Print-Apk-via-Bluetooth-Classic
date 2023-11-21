@@ -28,7 +28,7 @@
 
 ### デモアプリ操作方法
 
-    ![Alt text](image.png)
+![Alt text](./image.png)
 
 1. プリンタのBluetooth MAC を入力する。
 1. "BT Open" ボタン押下。
